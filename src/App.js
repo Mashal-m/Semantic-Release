@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Semantic Release Testingg
+       Semantic Release Testing for triggering dry run
       </header>
     </div>
   );
